@@ -426,3 +426,5 @@ Once Build and Release pipelines are successfully configured, you can see the in
 `$ kubectl get pods -o wide -n helloworld`
 
 ![validation](https://github.com/1CloudHub/Azure-AKS/blob/master/Images/validation-8.png "validation")
+
+
